@@ -1,0 +1,5 @@
+Crud feito daqui:
+https://www.c-sharpcorner.com/article/crud-operation-in-angular-6/
+
+O json-server foi usado para gerar uma api fake de empregados (employees)
+https://code.tutsplus.com/pt/tutorials/fake-rest-api-up-and-running-using-json-server--cms-27871
